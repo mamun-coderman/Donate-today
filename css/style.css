@@ -3,7 +3,7 @@ body{
 }
 
 .sec_one{
-    background-image: url(../images/donation6.jpg);
+    background-image: url(../images/donation12.png);
     background-repeat: no-repeat;
     background-size: 100%;
     height: 400px;
@@ -12,7 +12,7 @@ body{
 
 .sec_one h1{
     text-align: center;
-    color: white;
+    color: whitesmoke; 
     padding-top: 50px;
     font-size: 50px;
 }
@@ -21,4 +21,15 @@ p{
     text-align: center;
     color: white;
     font-size: 17px;
+}
+.ancor_button{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+}
+.center_ancor{
+    text-align: center;
 }
