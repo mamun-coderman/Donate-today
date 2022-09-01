@@ -187,3 +187,17 @@ body{
 
 /* section five ends */
 
+footer{
+    background-color: black;
+}
+
+footer h1{
+    text-align: center;
+    color: salmon;
+    padding-top: 10px;
+}
+footer p{
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
